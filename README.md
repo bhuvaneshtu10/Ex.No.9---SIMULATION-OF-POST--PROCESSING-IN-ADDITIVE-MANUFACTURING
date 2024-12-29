@@ -34,21 +34,38 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+![Screenshot 2024-12-29 193739](https://github.com/user-attachments/assets/42826024-f221-4c68-b0f1-83711f7f2533)
+![Screenshot 2024-12-29 193752](https://github.com/user-attachments/assets/a64307b2-f9be-48be-b6e1-11ed1e61e5ed)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![Screenshot 2024-12-29 193802](https://github.com/user-attachments/assets/1263067c-2972-4aac-9159-b27e2f7140cf)
+![Screenshot 2024-12-29 193904](https://github.com/user-attachments/assets/bb49346a-9b6d-40fa-a23d-f00528ae02a6)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+![Screenshot 2024-12-29 193913](https://github.com/user-attachments/assets/442d3726-ef39-4aa5-b64e-f363b31b4d9f)
+![Screenshot 2024-12-29 193921](https://github.com/user-attachments/assets/6ecaaba7-e441-41d6-aaa3-22bde9c82c8d)
 
 ## Output:
+SUPPORT REMOVAL
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-29 193930](https://github.com/user-attachments/assets/428171ab-0d1f-4a84-9f01-6ed381330372)
+
+UV CURING
+
+![Screenshot 2024-12-29 193941](https://github.com/user-attachments/assets/9b6fab8b-af06-4055-95bb-a16f2a9b8956)
+
+HEAT TREATMENT
+
+![Screenshot 2024-12-29 193947](https://github.com/user-attachments/assets/35f291d1-1f70-4682-99fc-a14de0a425be)
+![Screenshot 2024-12-29 193952](https://github.com/user-attachments/assets/8a61fae5-7871-4efd-b091-ab573d23437a)
+
+### Name:BHUVANESHWARAN TU
+### Register Number:24009351
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
